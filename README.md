@@ -14,7 +14,7 @@ This Weather App is designed to provide users with current weather information, 
 
 ## Demo
 
-[View Demo](https://weather-api-app-mounika.netlify.app)<!-- Add the link to your live demo here -->
+[View Demo]([https://weather-api-app-mounika.netlify.app](https://weather-api-app-mounika.netlify.app/))<!-- Add the link to your live demo here -->
 
 ![To-Do App Demo](images/screenshot2.png) <!-- Add a screenshot or gif of your app -->
 
